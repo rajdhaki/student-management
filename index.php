@@ -1,4 +1,4 @@
-/**
+<!-- /**
  * Student Management System - Main Page
  * 
  * This is the primary interface of the Student Management System.
@@ -6,7 +6,8 @@
  * - Display list of all students
  * - Search functionality for students by name or course
  * - Links to add, edit, and delete students
- */
+ * - XSS prevention through proper data escaping
+ */ -->
 
 <?php
 // Include necessary dependencies
