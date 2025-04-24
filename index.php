@@ -6,7 +6,6 @@
  * - Display list of all students
  * - Search functionality for students by name or course
  * - Links to add, edit, and delete students
- * - XSS prevention through proper data escaping
  */
 
 <?php
