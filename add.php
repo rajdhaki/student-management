@@ -1,10 +1,10 @@
-/**
+<!-- /**
  * Add New Student Page
  * 
  * This page provides a form to add a new student to the database.
  * It includes client-side validation for the form fields and
  * server-side processing of the submitted data.
- */
+ */ -->
 
 <?php
 include 'db.php';      // Database connection

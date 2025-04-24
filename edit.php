@@ -1,10 +1,10 @@
-/**
+<!-- /**
  * Edit Student Page
  * 
  * This page allows editing of existing student information.
  * It pre-fills the form with current student data and includes
  * both client-side validation and server-side processing.
- */
+ */ -->
 
 <?php
 include 'db.php';      // Database connection

@@ -1,10 +1,10 @@
-/**
+<!-- /**
  * Flash Message Handler
  * 
  * This file manages the display of flash messages across the application.
  * It uses PHP sessions to store temporary messages that need to be displayed
  * to the user after redirects (e.g., success messages, error notifications).
- */
+ */ -->
 
 <?php
 // Start the session if not already started

@@ -1,10 +1,10 @@
-/**
+<!-- /**
  * Delete Student Handler
  * 
  * This script handles the deletion of a student record.
  * It includes security measures to prevent SQL injection
  * and provides feedback through flash messages.
- */
+ */ -->
 
 <?php
 include 'db.php';      // Database connection

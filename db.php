@@ -1,4 +1,4 @@
-/**
+<!-- /**
  * Database Connection Configuration
  * 
  * This file establishes the connection to the MySQL database using the following credentials:
@@ -6,7 +6,7 @@
  * - Username: root
  * - Password: (empty)
  * - Database: student_db
- */
+ */ -->
 
 <?php
 // Create a new MySQL connection
